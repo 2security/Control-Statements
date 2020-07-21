@@ -1,3 +1,4 @@
+//Program to count no of vowels and consonents in a user entered string
 #include <stdio.h>
 int main()
 {
