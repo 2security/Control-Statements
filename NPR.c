@@ -1,3 +1,4 @@
+//Program to calculate nPr
 #include<stdio.h>
 #include<conio.h>
 int main()
