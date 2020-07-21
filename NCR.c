@@ -1,3 +1,4 @@
+//program to calculate nCr
 #include<stdio.h>
 #include<conio.h>
 int main()
